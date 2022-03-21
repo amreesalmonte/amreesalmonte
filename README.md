@@ -2,13 +2,13 @@
 
 
 
->> :mortar_board: cs at university of alberta
+:mortar_board: cs at university of alberta
 
->> :pencil2: previous cs teaching assistant
+:pencil2: previous cs teaching assistant
 
->> :green_book: previous intuit (quickbooks) intern
+:green_book: previous intuit (quickbooks) intern
 
->> :rocket: incoming swe intern at wealthsimple
+:rocket: incoming swe intern at wealthsimple
 
 
 
